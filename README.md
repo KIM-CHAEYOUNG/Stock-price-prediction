@@ -21,20 +21,20 @@
   
 ## 포트폴리오
 1. 고양시 공공자전거 스테이션 최적화
-작업툴 : Python(version:3.8.3), QGIS(version:2.86.321.0), 
-기간 : 20.08.19 ~ 20.09.11
-참여인원 : 6명
-역할 : 데이터 전처리 및 기획
-데이터셋 : 501.95MB
-내용 : 고양시 인구 증가와 대중교통 이용현황을 기반으로 고양시 공공 자전거 스테이션 접근성 개선을 위한 위치 재배치
-[Github_bike_station](https://github.com/KIM-CHAEYOUNG/PROJECT_bike_station)
+- 작업툴 : Python(version:3.8.3), QGIS(version:2.86.321.0), 
+- 기간 : 20.08.19 ~ 20.09.11
+- 참여인원 : 6명
+- 역할 : 데이터 전처리 및 기획
+- 데이터셋 : 501.95MB
+- 내용 : 고양시 인구 증가와 대중교통 이용현황을 기반으로 고양시 공공 자전거 스테이션 접근성 개선을 위한 위치 재배치
+- [Github_bike_station](https://github.com/KIM-CHAEYOUNG/PROJECT_bike_station)
 
 2. LSTM기반 코로나 이후 주가예측
-작업툴 : Python(version:3.7.9), Power BI(version:3.10), Scikit-learn(version: 0.23.2), 
-기간 : 20.09.23 ~ 20.10.16
-참여인원 : 3명
-역할 : 기획 및 예측 모델 개발
-내용 : 
+- 작업툴 : Python(version:3.7.9), Power BI(version:3.10), Scikit-learn(version: 0.23.2), 
+- 기간 : 20.09.23 ~ 20.10.16
+- 참여인원 : 3명
+- 역할 : 기획 및 예측 모델 개발
+- 내용 : 
   - 주식시장 분석
     - 공공데이터를 통해 코로나 이후 국내외 증시 데이터를 수집
     - PowerBI를 통한 국내외 주식 시장 분석
